@@ -14,6 +14,7 @@ const ACCEPTED_ORIGIN = [
   "http://localhost:1234",
   "http://movies.com",
   "http://kawa.dev",
+  "http://prueba.test",
 ];
 
 app.get("/", (req, res) => {
